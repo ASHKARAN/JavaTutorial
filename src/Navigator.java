@@ -1,7 +1,4 @@
-import ir.porteqali.javatutorial.E016_Variables;
-import ir.porteqali.javatutorial.E017_NamingRules;
-import ir.porteqali.javatutorial.E018_Keywords;
-import ir.porteqali.javatutorial.E019_CastingVariables;
+import ir.porteqali.javatutorial.*;
 
 /**
  * this class navigate us to the target classes
@@ -14,7 +11,7 @@ public class Navigator {
      */
     public static void main(String args[]) {
         System.out.println("Navigator");
-        E019_CastingVariables variables = new E019_CastingVariables();
+        E020_TryCatchBlock variables = new E020_TryCatchBlock();
         variables.Start();
     }
 }
