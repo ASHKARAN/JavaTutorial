@@ -1,4 +1,4 @@
-import ir.porteqali.javatutorial.P06_Operators.E025_MoreOperators;
+import ir.porteqali.javatutorial.P07_Methods.E026_Methods;
 
 /**
  * this class navigate us to the target classes
@@ -12,6 +12,6 @@ public class Navigator {
     public static void main(String args[]) {
         System.out.println("Navigator");
 
-        (new E025_MoreOperators()).Start();
+        (new E026_Methods()).Start();
     }
 }
