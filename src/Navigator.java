@@ -11,8 +11,7 @@ public class Navigator {
      */
     public static void main(String args[]) {
         System.out.println("Navigator");
-        E023LogicalOperators variables =
-                new E023LogicalOperators();
-        variables.Start();
+
+        (new E024_AssignmentOperators()).Start();
     }
 }
