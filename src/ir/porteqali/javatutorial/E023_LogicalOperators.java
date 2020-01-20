@@ -1,6 +1,6 @@
 package ir.porteqali.javatutorial;
 
-public class E023LogicalOperators {
+public class E023_LogicalOperators {
 
 
     public void Start() {
