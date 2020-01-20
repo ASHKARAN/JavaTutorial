@@ -1,4 +1,4 @@
-package ir.porteqali.javatutorial;
+package ir.porteqali.javatutorial.P05_Variables;
 
 public class E020_TryCatchBlock {
 

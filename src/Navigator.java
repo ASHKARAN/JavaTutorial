@@ -1,4 +1,4 @@
-import ir.porteqali.javatutorial.*;
+import ir.porteqali.javatutorial.P06_Operators.E025_MoreOperators;
 
 /**
  * this class navigate us to the target classes

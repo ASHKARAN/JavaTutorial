@@ -1,4 +1,4 @@
-package ir.porteqali.javatutorial;
+package ir.porteqali.javatutorial.P06_Operators;
 
 public class E022_RelationalOperators {
 
