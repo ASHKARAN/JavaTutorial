@@ -7,6 +7,7 @@ public class E033_Husky extends E033_Dog {
     @Override
     public void Sound() {
         System.out.println("OOOOOO oooooo ");
+        super.Sound();
     }
 
     @Override
