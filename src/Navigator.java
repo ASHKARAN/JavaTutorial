@@ -1,5 +1,3 @@
-import ir.porteqali.javatutorial.P10_OOP.E052_Interface;
-import ir.porteqali.javatutorial.P10_OOP.E053_Enums;
 import ir.porteqali.javatutorial.P10_OOP.E054_Clone;
 
 /**
