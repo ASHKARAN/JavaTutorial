@@ -1,4 +1,5 @@
 import ir.porteqali.javatutorial.P09_FilesAndThreads.E035_Threads;
+import ir.porteqali.javatutorial.P09_FilesAndThreads.E036_Files;
 
 /**
  * this class navigate us to the target classes
@@ -12,6 +13,6 @@ public class Navigator {
     public static void main(String args[]) {
         System.out.println("Navigator");
 
-          new E035_Threads() ;
+          new E036_Files() ;
     }
 }
