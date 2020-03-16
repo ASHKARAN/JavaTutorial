@@ -1,7 +1,5 @@
-import ir.porteqali.javatutorial.P09_FilesAndThreads.E035_Threads;
-import ir.porteqali.javatutorial.P09_FilesAndThreads.E036_Files;
-import ir.porteqali.javatutorial.P09_FilesAndThreads.E037WriteFile;
 import ir.porteqali.javatutorial.P09_FilesAndThreads.E038_ReadFile;
+import ir.porteqali.javatutorial.P10_OOP.E039_Override;
 
 /**
  * this class navigate us to the target classes
@@ -15,6 +13,6 @@ public class Navigator {
     public static void main(String args[]) {
         System.out.println("Navigator");
 
-          new E038_ReadFile() ;
+          new E039_Override() ;
     }
 }
