@@ -1,5 +1,7 @@
 package ir.porteqali.javatutorial.P08_Classes;
 
+import ir.porteqali.javatutorial.P10_OOP.E045_AccessExample;
+
 public class E033_Animal {
 
     public int age =   20 ;
