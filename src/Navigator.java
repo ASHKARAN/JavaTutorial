@@ -1,6 +1,5 @@
-import ir.porteqali.javatutorial.P10_OOP.E054_Clone;
-import ir.porteqali.javatutorial.P10_OOP.E055_Singleton;
-import ir.porteqali.javatutorial.P11_SimpleProject.E056_Scanner;
+import ir.porteqali.javatutorial.P11_SimpleProject.E057_SimpleProject;
+import ir.porteqali.javatutorial.P12_ConditionalStatements.E058_IF;
 
 /**
  * this class navigate us to the target classes
@@ -13,6 +12,6 @@ public class Navigator {
      */
     public static void main(String args[])  {
         System.out.println("Navigator");
-          new E056_Scanner() ;
+          new E058_IF() ;
     }
 }
