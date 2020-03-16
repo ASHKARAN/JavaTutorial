@@ -7,7 +7,7 @@ import java.io.IOException;
 public class E037WriteFile {
 
     public E037WriteFile() {
-        String data = " my name is ali";
+        String data = " my name is ali ";
 
         /**
          * create a new file
