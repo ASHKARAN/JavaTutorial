@@ -1,5 +1,6 @@
 import ir.porteqali.javatutorial.P10_OOP.E052_Interface;
 import ir.porteqali.javatutorial.P10_OOP.E053_Enums;
+import ir.porteqali.javatutorial.P10_OOP.E054_Clone;
 
 /**
  * this class navigate us to the target classes
@@ -12,6 +13,6 @@ public class Navigator {
      */
     public static void main(String args[]) throws ClassNotFoundException {
         System.out.println("Navigator");
-          new E053_Enums() ;
+          new E054_Clone() ;
     }
 }
