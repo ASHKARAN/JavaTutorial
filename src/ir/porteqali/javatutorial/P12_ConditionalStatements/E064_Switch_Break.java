@@ -7,6 +7,7 @@ public class E064_Switch_Break {
     public E064_Switch_Break() {
         E053_Colors color = E053_Colors.GREEN;
 
+
         switch (color) {
             case BLUE:  System.out.println(E053_Colors.BLUE);   break;
             case BLACK: System.out.println(E053_Colors.BLACK);  break;
