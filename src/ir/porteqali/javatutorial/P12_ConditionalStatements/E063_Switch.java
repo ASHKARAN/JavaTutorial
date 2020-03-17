@@ -7,10 +7,8 @@ public class E063_Switch {
         int a = 4;
 
         if(a == 5) {
-
         }
-        else if(a == 6) {
-
+        else if(a == 6) { 
         }
         else if(a == 7) {
 
