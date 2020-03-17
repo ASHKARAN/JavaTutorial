@@ -11,6 +11,6 @@ public class Navigator {
      */
     public static void main(String args[])  {
         System.out.println("Navigator");
-          new E075_WhileLoop() ;
+          new E076_doWhile() ;
     }
 }
