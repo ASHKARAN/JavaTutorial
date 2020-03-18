@@ -9,6 +9,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Mavem" target="1.5" />
       <module name="untitled" target="1.5" />
     </bytecodeTargetLevel>
   </component>
