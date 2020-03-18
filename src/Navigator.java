@@ -1,5 +1,4 @@
-import ir.porteqali.javatutorial.P15_List.E084_HashTable;
-import ir.porteqali.javatutorial.P16_Java8.E085_Lambda;
+import ir.porteqali.javatutorial.P16_Java8.*;
 
 /**
  * this class navigate us to the target classes
@@ -12,6 +11,6 @@ public class Navigator {
      */
     public static void main(String args[])  {
         System.out.println("Navigator");
-          new E085_Lambda() ;
+          new E086_MethodReference() ;
     }
 }
