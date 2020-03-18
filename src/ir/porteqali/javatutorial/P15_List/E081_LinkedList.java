@@ -28,5 +28,6 @@ public class E081_LinkedList {
         linkedList.pop();
         for(String name : linkedList)
             System.out.println(name);
+
     }
 }
