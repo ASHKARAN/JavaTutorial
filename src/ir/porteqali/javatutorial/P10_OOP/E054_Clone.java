@@ -3,7 +3,7 @@ package ir.porteqali.javatutorial.P10_OOP;
 public class E054_Clone {
 
     public E054_Clone() {
-        E054_Student student1 = new E054_Student();
+        E054_Student student1 = new E054_Student("ali" , 20);
         student1.name = "ali";
 
         System.out.println("student1: " + student1.name);
