@@ -1,4 +1,4 @@
-import ir.porteqali.javatutorial.P16_Java8.*;
+import ir.porteqali.javatutorial.P18_TickTackToe.TickTackToe;
 
 /**
  * this class navigate us to the target classes
@@ -11,6 +11,6 @@ public class Navigator {
      */
     public static void main(String args[])  {
         System.out.println("Navigator");
-          new E089_Observable() ;
+          new TickTackToe() ;
     }
 }
