@@ -1,7 +1,5 @@
-import ir.porteqali.javatutorial.P15_List.E081_LinkedList;
-import ir.porteqali.javatutorial.P15_List.E082_HashMap;
-import ir.porteqali.javatutorial.P15_List.E083_HashSet;
 import ir.porteqali.javatutorial.P15_List.E084_HashTable;
+import ir.porteqali.javatutorial.P16_Java8.E085_Lambda;
 
 /**
  * this class navigate us to the target classes
@@ -14,6 +12,6 @@ public class Navigator {
      */
     public static void main(String args[])  {
         System.out.println("Navigator");
-          new E084_HashTable() ;
+          new E085_Lambda() ;
     }
 }

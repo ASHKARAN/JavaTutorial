@@ -23,9 +23,5 @@ public class E052_Interface implements  E052_DownloadListener{
         System.out.println("filePath : " + filePath );
     }
 
-    @Override
-    public void downloadFailed() {
 
-        System.out.println("downloadFailed");
-    }
 }
