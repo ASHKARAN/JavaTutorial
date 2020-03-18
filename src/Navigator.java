@@ -11,6 +11,6 @@ public class Navigator {
      */
     public static void main(String args[])  {
         System.out.println("Navigator");
-          new E087_DefaultMethods() ;
+          new E088_Optional() ;
     }
 }
